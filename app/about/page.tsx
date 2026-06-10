@@ -94,10 +94,10 @@ export default function AboutPage() {
                 Founded with a vision to help businesses harness the full power of Salesforce, CloudForce Solutions has grown into a trusted partner for organizations worldwide. Our journey began with a simple belief: that technology should serve business goals, not complicate them.
               </p>
               <p>
-                Over the years, we've helped hundreds of companies transform their operations, enhance customer experiences, and drive measurable growth through intelligent Salesforce implementations. Our success is built on a foundation of technical excellence, strategic thinking, and an unwavering commitment to client success.
+                Over the years, we&apos;ve helped hundreds of companies transform their operations, enhance customer experiences, and drive measurable growth through intelligent Salesforce implementations. Our success is built on a foundation of technical excellence, strategic thinking, and an unwavering commitment to client success.
               </p>
               <p>
-                Today, we continue to innovate and evolve, staying at the forefront of Salesforce technology while maintaining our core values of integrity, collaboration, and results-driven service. We don't just implement technology—we build lasting partnerships.
+                Today, we continue to innovate and evolve, staying at the forefront of Salesforce technology while maintaining our core values of integrity, collaboration, and results-driven service. We don&apos;t just implement technology—we build lasting partnerships.
               </p>
             </div>
           </div>
@@ -151,7 +151,7 @@ export default function AboutPage() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-dark mb-2">Long-Term Partnership</h3>
-                  <p className="text-gray-600">We're committed to your success beyond project completion.</p>
+                  <p className="text-gray-600">We&apos;re committed to your success beyond project completion.</p>
                 </div>
               </div>
             </div>

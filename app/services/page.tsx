@@ -105,7 +105,7 @@ export default function ServicesPage() {
         <div className="container mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-dark mb-4">Service Details</h2>
-            <p className="text-gray-600 text-lg">What's included in each service offering</p>
+            <p className="text-gray-600 text-lg">What&apos;s included in each service offering</p>
           </div>
           <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
             {serviceDetails.map((service, index) => (
@@ -204,7 +204,7 @@ export default function ServicesPage() {
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-4xl font-bold mb-6">Ready to Get Started?</h2>
           <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-            Let's discuss how our Salesforce services can help transform your business.
+            Let&apos;s discuss how our Salesforce services can help transform your business.
           </p>
           <Link
             href="/contact"

@@ -44,7 +44,7 @@ export default function About() {
 
             <h3 className="text-2xl font-bold text-primary mb-4">Our Vision</h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              To be the world's most trusted Salesforce innovation partner, recognized for delivering exceptional value, pioneering AI-powered solutions, and creating lasting impact for our clients.
+              To be the world&apos;s most trusted Salesforce innovation partner, recognized for delivering exceptional value, pioneering AI-powered solutions, and creating lasting impact for our clients.
             </p>
 
             <h3 className="text-2xl font-bold text-primary mb-4">Our Values</h3>
