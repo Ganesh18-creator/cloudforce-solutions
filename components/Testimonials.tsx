@@ -6,24 +6,24 @@ import Image from 'next/image'
 
 const testimonials = [
   {
-    name: 'Sarah Johnson',
-    role: 'VP of Sales, TechCorp Inc.',
+    name: 'Rajesh Kumar',
+    role: 'Business Owner',
     image: 'https://i.pravatar.cc/150?img=12',
-    text: 'CloudForce Solutions completely transformed our sales operations. Their Einstein AI implementation increased our lead conversion rate by 43%, and the custom Salesforce CPQ solution reduced our quote generation time from days to minutes. The team\'s expertise and dedication to our success have been exceptional.',
+    text: 'The Salesforce implementation completely transformed our sales operations. The Einstein AI integration increased our lead conversion rate by 43%, and the custom CPQ solution reduced our quote generation time from days to minutes. The team&apos;s expertise and dedication to our success have been exceptional.',
     rating: 5,
   },
   {
-    name: 'Michael Chen',
-    role: 'CTO, InnovateSoft',
-    image: 'https://i.pravatar.cc/150?img=33',
-    text: 'Working with CloudForce was a game-changer for our business. They developed a complex multi-cloud integration connecting Salesforce with our ERP, e-commerce platform, and customer support systems. The seamless data flow has given us a true 360-degree customer view. Their technical expertise is unmatched.',
-    rating: 5,
-  },
-  {
-    name: 'Emily Rodriguez',
-    role: 'Director of Operations, RetailMax',
+    name: 'Priya Sharma',
+    role: 'Technology Head',
     image: 'https://i.pravatar.cc/150?img=47',
-    text: 'The Agentforce implementation by CloudForce has revolutionized our customer service. Our AI-powered chatbot handles 60% of customer inquiries automatically, and response times have decreased by 70%. The predictive analytics help us anticipate customer needs before they arise. Exceptional work!',
+    text: 'Working with this team was a game-changer for our business. They developed a complex multi-cloud integration connecting Salesforce with our ERP, e-commerce platform, and customer support systems. The seamless data flow has given us a true 360-degree customer view. Their technical expertise is unmatched.',
+    rating: 5,
+  },
+  {
+    name: 'Arjun Patel',
+    role: 'Operations Director',
+    image: 'https://i.pravatar.cc/150?img=33',
+    text: 'The Agentforce implementation has revolutionized our customer service. Our AI-powered chatbot handles 60% of customer inquiries automatically, and response times have decreased by 70%. The predictive analytics help us anticipate customer needs before they arise. Exceptional work!',
     rating: 5,
   },
 ]
