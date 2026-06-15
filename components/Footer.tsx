@@ -76,11 +76,15 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-400">
               <li className="flex items-start gap-2">
                 <span className="text-primary-light">✉</span>
-                <span>contact@cloudforcesolutions.com</span>
+                <span>info@thebodaciousbosses.com</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-primary-light">📞</span>
-                <span>+1 (555) 123-4567</span>
+                <span>+91 9942407870</span>
+              </li>
+              <li className="flex items-start gap-2">
+                <span className="text-primary-light">📍</span>
+                <span>Bangalore | Coimbatore</span>
               </li>
             </ul>
           </div>

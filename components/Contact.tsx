@@ -105,7 +105,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-dark mb-1">Email</h4>
-                  <p className="text-gray-600">contact@cloudforcesolutions.com</p>
+                  <p className="text-gray-600">info@thebodaciousbosses.com</p>
                 </div>
               </div>
 
@@ -115,7 +115,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-dark mb-1">Phone</h4>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+91 9942407870</p>
                 </div>
               </div>
 
@@ -124,12 +124,8 @@ export default function Contact() {
                   <MapPin className="w-6 h-6 text-white" />
                 </div>
                 <div>
-                  <h4 className="font-bold text-dark mb-1">Address</h4>
-                  <p className="text-gray-600">
-                    123 Business Street, Tech Hub
-                    <br />
-                    San Francisco, CA 94105
-                  </p>
+                  <h4 className="font-bold text-dark mb-1">Location</h4>
+                  <p className="text-gray-600">Bangalore | Coimbatore</p>
                 </div>
               </div>
             </div>
