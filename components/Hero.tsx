@@ -6,10 +6,10 @@ import Link from 'next/link'
 import { useEffect, useState } from 'react'
 
 const stats = [
-  { target: 500, label: 'Projects Completed' },
-  { target: 150, label: 'Happy Clients' },
-  { target: 15, label: 'Years Experience' },
-  { target: 98, label: '% Success Rate' },
+  { target: 5, label: 'Projects Completed' },
+  { target: 5, label: 'Happy Clients' },
+  { target: 5, label: 'Years Experience' },
+  { target: 100, label: '% Success Rate' },
 ]
 
 export default function Hero() {

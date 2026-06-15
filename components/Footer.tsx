@@ -8,7 +8,7 @@ const footerLinks = {
     { label: 'About Us', href: '/about' },
     { label: 'Services', href: '/services' },
     { label: 'Portfolio', href: '/portfolio' },
-    { label: 'Careers', href: '/careers' },
+    { label: 'Contact Us', href: '/contact' },
   ],
   Services: [
     { label: 'Salesforce Consulting', href: '/services' },

@@ -5,7 +5,6 @@ import Services from '@/components/Services'
 import WhyUs from '@/components/WhyUs'
 import Portfolio from '@/components/Portfolio'
 import Testimonials from '@/components/Testimonials'
-import Careers from '@/components/Careers'
 import Contact from '@/components/Contact'
 import Footer from '@/components/Footer'
 
@@ -19,7 +18,6 @@ export default function Home() {
       <WhyUs />
       <Portfolio />
       <Testimonials />
-      <Careers />
       <Contact />
       <Footer />
     </main>

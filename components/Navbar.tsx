@@ -11,7 +11,6 @@ const navLinks = [
   { href: '/why-us', label: 'Why Us' },
   { href: '/portfolio', label: 'Portfolio' },
   { href: '/testimonials', label: 'Testimonials' },
-  { href: '/careers', label: 'Careers' },
 ]
 
 export default function Navbar() {

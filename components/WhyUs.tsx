@@ -17,7 +17,7 @@ const reasons = [
   {
     icon: Users,
     title: 'Proven Track Record',
-    description: 'With 98% client satisfaction rate and 500+ successfully delivered projects across 20+ countries, we turn business challenges into competitive advantages.',
+    description: 'With 100% client satisfaction rate and 5+ successfully delivered projects, we turn business challenges into competitive advantages.',
   },
   {
     icon: Lightbulb,
@@ -32,7 +32,7 @@ const reasons = [
   {
     icon: DollarSign,
     title: 'Measurable ROI',
-    description: 'Average 287% ROI within first year through increased productivity, automated processes, and improved customer satisfaction.',
+    description: 'Delivering exceptional ROI through increased productivity, automated processes, and improved customer satisfaction.',
   },
 ]
 

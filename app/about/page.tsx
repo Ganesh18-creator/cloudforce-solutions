@@ -6,10 +6,10 @@ import Footer from '@/components/Footer'
 import { Target, Eye, Award, Users, Globe, TrendingUp } from 'lucide-react'
 
 const stats = [
-  { icon: Users, value: '150+', label: 'Satisfied Clients' },
-  { icon: Award, value: '500+', label: 'Projects Delivered' },
-  { icon: Globe, value: '20+', label: 'Countries Served' },
-  { icon: TrendingUp, value: '98%', label: 'Success Rate' },
+  { icon: Users, value: '5+', label: 'Satisfied Clients' },
+  { icon: Award, value: '5+', label: 'Projects Delivered' },
+  { icon: Globe, value: '3+', label: 'Countries Served' },
+  { icon: TrendingUp, value: '100%', label: 'Success Rate' },
 ]
 
 const team = [
@@ -19,7 +19,7 @@ const team = [
   },
   {
     name: 'Industry Experience',
-    description: 'With over 15 years of combined experience, we bring deep industry knowledge across various sectors.',
+    description: 'With over 5 years of combined experience, we bring deep industry knowledge across various sectors.',
   },
   {
     name: 'Continuous Learning',
@@ -94,7 +94,7 @@ export default function AboutPage() {
                 Founded with a vision to help businesses harness the full power of Salesforce, CloudForce Solutions has grown into a trusted partner for organizations worldwide. Our journey began with a simple belief: that technology should serve business goals, not complicate them.
               </p>
               <p>
-                Over the years, we&apos;ve helped hundreds of companies transform their operations, enhance customer experiences, and drive measurable growth through intelligent Salesforce implementations. Our success is built on a foundation of technical excellence, strategic thinking, and an unwavering commitment to client success.
+                We&apos;ve helped multiple companies transform their operations, enhance customer experiences, and drive measurable growth through intelligent Salesforce implementations. Our success is built on a foundation of technical excellence, strategic thinking, and an unwavering commitment to client success.
               </p>
               <p>
                 Today, we continue to innovate and evolve, staying at the forefront of Salesforce technology while maintaining our core values of integrity, collaboration, and results-driven service. We don&apos;t just implement technology—we build lasting partnerships.
